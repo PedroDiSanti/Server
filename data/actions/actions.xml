@@ -230,4 +230,7 @@
 	<action fromid="18488" toid="18492" script="other/skilltrainer.lua" />
 	<action itemid="3743" script="other/transforms.lua" />
 	<action itemid="4404" script="other/transforms.lua" />
+
+	<!--Mining-->
+	<action itemid="30000" script="labor/mining/mining.lua" />	
 </actions>

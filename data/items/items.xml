@@ -31600,4 +31600,9 @@
 	<item id="30028" name="swamp" />
 	<item id="30035" name="tea" />
 	<item id="30043" name="mead" />
+
+	<!--Mining-->
+	<item id="30044" article="a" name="pickaxe">
+		<attribute key="weight" value="4500" />
+	</item>
 </items>
