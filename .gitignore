@@ -3,3 +3,5 @@
 *.vscode
 *.dll
 *.zip
+*/vc14/Debug
+*/vc14/x64
